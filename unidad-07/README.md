@@ -30,3 +30,6 @@ Proponer mejoras sobre un método largo que gestiona préstamos.
 
 ## Revisión desde GitHub
 Refactorizar mejora la mantenibilidad sin alterar el comportamiento observable.
+
+## Seguimiento del equipo 2
+Revisión realizada desde la segunda copia local.
