@@ -30,3 +30,6 @@ Diseñar un diagrama de clases para un sistema de biblioteca.
 
 ## Revisión desde GitHub
 Los diagramas de clases permiten comunicar la estructura y las relaciones del sistema.
+
+## Seguimiento del equipo 1
+Cambio propio pendiente de sincronización.
